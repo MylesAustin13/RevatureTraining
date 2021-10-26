@@ -1,4 +1,4 @@
-package com.company.Assignment1;
+package Assignment1;
 
 import java.util.Scanner;
 
