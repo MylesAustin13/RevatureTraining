@@ -43,7 +43,7 @@ class B extends Marks{
 public class Q4 {
     public static void main(String[] args) {
         A studentA = new A(99,88,77);
-        B studentB = new B(100,75,50,25);
+        B studentB = new B(100,80,40,20);
 
         System.out.println("Student A's Average: " + studentA.getPercentage());
         System.out.println("Student B's Average: " + studentB.getPercentage());
